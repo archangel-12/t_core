@@ -1,0 +1,13 @@
+- June 10th 2025 [19:38 GMT+7] = official wiki's project completed
+- June 11th 2025 [09:22 GMT+7] = package changed and slight touch to ensure if things still what it is
+- June 11th 2025 [13:09 GMT+7] = adding `text-area.tsx` and another slight ui revision although did not succeed
+- June 11th 2025 [21:24 GMT+7] = major revision on `route.ts` of which blocking the entirety of a nonsense question or not related to history
+- June 17th 2025 [12:26 GMT+7] = slight revision on the sign-in page to make it more user-friendly although not much
+- June 18th 2025 [11:37 GMT+7] = a sort of observation and a small question from the junior, as they're part of the very first group of users. no changes have been made to the user interface so far
+- June 19th-July 8th 2025 = Complete break off because laptop goes broken
+- July 9th [09:30 GMT+7] = Full restoration such as UI full restoration
+- July 10th [14:30 GMT+7] = UI restoration done, not using <img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>, abandon <img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white" alt="next"/> because it's heavy. Using <img src="https://img.shields.io/badge/vite-%23000000.svg?logo=vite&logoColor=pink" alt="next"/> as of right now and plain css. Restored documentation will be updated in the coming day
+- July 12th [15:30 GMT+7] = Complete full restoration for the 2nd time. and also introducing <img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> for the second time again
+- July 14th [10:32 GMT+7] = UI is visually done (blurred cards, sidebar, questions look clickable), Static "chat title" placeholders are in place, The input at the bottom is styled and visible, Routes seem to be laid out (/dashboard), Gemini integration was attempted (but had issues) but _No_ dynamic data flow or chat history persistence yet.
+- July 15-16th = These two days were marked by errors and progress because when I created separate folders for the client and backend, the browser console threw CORS errors, which led me to consider bringing Next.js back as the sole framework and copying the code over
+- July 17th [13:29 GMT+7] = Code copy is done, revisions are complete, and UI visuals are finalized. After yesterday's CORS tragedy, I'm putting the UI and backend in one folder to avoid those pesky ``No Access-Control-Allow-Origin`` header errors. Also, the AI embedding is also work and this time, using [Llama](https://console.groq.com/docs/model/llama-3.2-3b-preview) model by [Meta](https://ai.meta.com/)

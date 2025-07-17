@@ -1,0 +1,124 @@
+.homepage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+
+  .left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    text-align: center;
+
+    h1 {
+      font-size: 128px;
+      font-weight: bold;
+      background: linear-gradient(270deg, #00f0ff, #ff00c8, #faff00, #00f0ff);
+      background-size: 800% 800%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientShift 8s ease infinite;
+    }
+  }
+
+  .terms {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    padding: 16px 24px;
+    border-radius: 16px;
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: max-content;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .terms img {
+    width: 48px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .links {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    color: #111;
+  }
+
+  .links a {
+    color: #111;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .links a:hover {
+    color: #007acc;
+    text-decoration: underline;
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .homepage {
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .homepage .left h1 {
+    font-size: 48px;
+  }
+
+  .homepage .left h2 {
+    font-size: 18px;
+  }
+
+  .homepage .left h3 {
+    font-size: 14px;
+    max-width: 90%;
+  }
+
+  .homepage .left a {
+    font-size: 12px;
+    padding: 12px 20px;
+  }
+
+  .homepage .terms {
+    bottom: 10px;
+    padding: 12px 16px;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .homepage .terms img {
+    width: 32px;
+    margin-bottom: 6px;
+  }
+
+  .homepage .links {
+    flex-direction: column;
+    gap: 6px;
+    font-size: 12px;
+  }
+}
