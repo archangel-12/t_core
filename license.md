@@ -1,21 +1,25 @@
-MIT License
+Copyright © 2025-forever [Matthew [archangel-12] Alexander](https://www.instagram.com/r3yanson/)
 
-Copyright 2025 - forever Matthew Alexander
+<p align="left">
+  For the
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png?20200822164827"
+    alt="id_flag"
+  />
+  translation, please refer to <a href="/license-ID.md">this file</a>.
+  <br />
+</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "*Software*"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted to any person to __view the contents of this repository for educational or informational purposes only__.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may NOT:
+1. Reuse or modify any part of the code for your own projects,
+2. Copy, fork, or distribute this codebase,
+3. Host or deploy this project, in part or in whole,
+4. Use the code for commercial or non-commercial applications
 
-> THE SOFTWARE IS PROVIDED "__AS IS__", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This repository is provided strictly for transparency, learning, and inspiration. Any unauthorized use, reproduction, or distribution is __strictly prohibited__.
+
+By accessing this repository, you agree to these terms.
+
+For usage rights or questions, contact my [email](https://mail.google.com/mail/?view=cm&fs=1&to=sebastianhedforst@gmail.com&su=SUBJECT&body=BODY)

@@ -1,11 +1,17 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
+import { useAuth } from "@clerk/nextjs";
 import Sidebar from "../components/Sidebar";
 import ChatBox from "../components/Chatbox";
 import MessageInput from "../components/MessageInput";
+import { useRouter } from "next/navigation";
 
 export default function DashboardPage() {
+
+  const { isSignedIn } = useAuth();
+  const router = useRouter();
+
   const [messages, setMessages] = useState([
     {
       role: "assistant",
@@ -13,6 +19,15 @@ export default function DashboardPage() {
     },
   ]);
   const [input, setInput] = useState("");
+
+  useEffect(() => {
+    if (!isSignedIn) {
+      router.push("/sign-in");
+    }
+  }, [isSignedIn, router]);
+
+  if (!isSignedIn) return null;
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!input.trim()) return;
@@ -33,6 +48,7 @@ export default function DashboardPage() {
 
     setMessages((prev) => [...prev, { role: "assistant", content: botReply }]);
   };
+  
   return (
     <div className="flex h-screen pl-5 py-px">
       <Sidebar />

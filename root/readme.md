@@ -4,7 +4,7 @@
 <img src="./app/favicon.ico" width="100px" align="left" />
 
 ### `Velvet`
-[![Lisensi](https://img.shields.io/badge/license-MIT-blue.svg)](/license)
+[[lisensi bisa ditemukan disini](/license-ID.md)]
 
 <p align="left">
   Untuk versi terjemahan dalam Bahasa asli, silakan lihat <a href="/readme.md">file ini</a>.
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/velve-t/core/tree/main/core">
+  <a href="https://github.com/archangel-12/t_core">
     <strong>Jelajahi dokumentasi »</strong>
   </a>
 </div>
@@ -60,13 +60,13 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 
 2. *Runtime*: Menggunakan <a href="https://bun.sh/"><img src="https://img.shields.io/badge/bun-%23000000.svg?logo=bun&logoColor=white" alt="bun"></a> karena performanya dan kapabilitas <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=white" alt="js"></a> yang modern.
 
-3. *Kerangka kerja*: Dibangun menggunakan <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white" alt="next"></a> karena fitur-fiturnya yang canggih dan dukungan [server-side rendering](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering).
+3. *Kerangka kerja*: Dibangun menggunakan <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next-%23000000.svg?logo=next.js&logoColor=white" alt="next"></a> karena fitur-fiturnya yang canggih dan dukungan [server-side rendering](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering).
 
 4. *Styling*: Menggunakan <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a> untuk pendekatan styling berbasis utilitas.
 
-5. ~~*Bahasa Pemrograman*: Sebagian besar ditulis dalam <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript"></a> untuk keamanan tipe dan pemeliharaan yang lebih mudah.~~
+5. *Bahasa Pemrograman*: Sebagian besar ditulis dalam <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=white" alt="js"></a>
 
-6. *Embedding model AI*: Mengintegrasikan [Llama](https://console.groq.com/docs/model/deepseek-r1-distill-llama-70b) LLM sebagai model bahasa utama, menggunakan <a href="https://console.groq.com/home"><img src="https://img.shields.io/badge/Groq-%23F55036.svg" alt="Groq"></a> sebagai penyedia inferensi untuk performa yang optimal.
+6. *Embedding model AI*: Mengintegrasikan [Llama](https://ai.meta.com/blog/meta-llama-3-1/) LLM sebagai model bahasa utama, menggunakan <a href="https://console.groq.com/home"><img src="https://img.shields.io/badge/Groq-%23F55036.svg" alt="Groq"></a> sebagai penyedia inferensi untuk performa yang optimal.
 
 8. *Backend Services*: Mengimplementasikan <a href="https://dashboard.clerk.com/apps"><img src="https://img.shields.io/badge/Clerk-%23000000.svg?logo=clerk&logoColor=purple" alt="Clerk"></a> untuk autentikasi dan manajemen akun, serta <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-%2300E676.svg?logo=supabase&logoColor=white" alt="Supabase"></a> untuk penyimpanan dan pengelolaan riwayat chat.
 

@@ -4,7 +4,7 @@
 <img src="./root/app/favicon.ico" width="100px" align="left" />
 
 ### `Velvet`
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/license)
+[[License can be found here](/license)]
 
 <p align="left">
   For the
@@ -12,12 +12,12 @@
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png?20200822164827"
     alt="id_flag"
   />
-  translation, please refer to <a href="/core/readme.md">this file</a>.
+  translation, please refer to <a href="/root/readme.md">this file</a>.
   <br />
 </p>
 
 <div align="center">
-  <a href="https://github.com/velve-t/core/tree/main/core">
+  <a href="https://github.com/archangel-12/t_core">
     <strong>Explore the docs »</strong>
   </a>
 </div>
@@ -67,17 +67,17 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
   <img src="https://img.shields.io/badge/bun-%23000000.svg?logo=bun&logoColor=white" alt="bun"></a> for its performance and modern <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=white" alt="js"></a> runtime capabilities.
 
 3. Framework: Built the project using <a href="https://nextjs.org/">
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white" alt="next"></a> for its robust features and [server-side rendering](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering).
+  <img src="https://img.shields.io/badge/next-%23000000.svg?logo=next.js&logoColor=white" alt="next"></a> for its robust features and [server-side rendering](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering).
 
 4. Styling: Implemented <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwind.css-%2338B2AC.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a> for utility-first styling.
 
-5. Language: Mostly in <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/JavaScript-%23007ACC.svg?logo=javascript&logoColor=white" alt="js"></a> for type safety and maintainability.
+5. Language: Mostly in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=white" alt="js"></a>,
 
-6. API Keys & LLM Backend: Integrating [Llama](https://console.groq.com/docs/model/deepseek-r1-distill-llama-70b) LLM as the primary language model, utilizing <a href="https://console.groq.com/home"><img src="https://img.shields.io/badge/Groq-%23F55036.svg" alt="Groq"></a> as the inference provider for optimized performance. 
+6. API Keys & LLM Backend: Integrating [Llama](https://ai.meta.com/blog/meta-llama-3-1/) LLM as the primary language model, utilizing <a href="https://console.groq.com/home"><img src="https://img.shields.io/badge/Groq-%23F55036.svg" alt="Groq"></a> as the inference provider for optimized performance. 
 
-8. Backend Services: Implementing <a href="https://dashboard.clerk.com/apps"><img src="https://img.shields.io/badge/Clerk-%23000000.svg?logo=clerk&logoColor=purple" alt="Groq"></a> for authentication and account management, while <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-%2300E676.svg?logo=supabase&logoColor=white" alt="Supabase"></a> handles chat history storage and retrieval
+7. Backend Services: Implementing <a href="https://dashboard.clerk.com/apps"><img src="https://img.shields.io/badge/Clerk-%23000000.svg?logo=clerk&logoColor=purple" alt="Groq"></a> for authentication and account management, while <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-%2300E676.svg?logo=supabase&logoColor=white" alt="Supabase"></a> handles chat history storage and retrieval
 
-9. [V0](https://v0.dev/) for seeking reference
+8. [V0](https://v0.dev/) for seeking reference
 
 ### 🗺️ Roadmap
 | Phase | Timeline | Milestone | Status |
