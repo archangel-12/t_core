@@ -12,3 +12,4 @@
 - July 15-16th = These two days were marked by errors and progress because when I created separate folders for the client and backend, the browser console threw CORS errors, which led me to consider bringing Next.js back as the sole framework and copying the code over
 - July 17th [13:29 GMT+7] = Code copy is done, revisions are complete, and UI visuals are finalized. After yesterday's CORS tragedy, I'm putting the UI and backend in one folder to avoid those pesky ``No Access-Control-Allow-Origin`` header errors. Also, the AI embedding is also work and this time, using [Llama](https://console.groq.com/docs/model/llama-3.2-3b-preview) model by [Meta](https://ai.meta.com/)
 - July 21th [10:28 GMT+7] = Chat history storage in progress, user authentication, analytics and admin view (*maybe will be included*)
+- July 22th [15:40 GMT+7] = Slight change on the terms and condition and also privacy police
