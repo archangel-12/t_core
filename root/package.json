@@ -1,6 +1,15 @@
 {
   "name": "velvet_core",
-  "version": "1.0.6",
+  "description": "It's a chatbot, but related to history alike !",
+  "author": {
+    "name": "matthew alexander"
+  },
+  "categories": [
+    "AI",
+    "Chat",
+    "Education"
+  ],
+  "version": "1.0.7",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",

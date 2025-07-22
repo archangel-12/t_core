@@ -11,13 +11,6 @@
   overflow: hidden;
 }
 
-.Sidebar .title {
-  font-weight: 600;
-  font-size: 20px;
-  margin-bottom: 40px;
-  color: #111;
-}
-
 .Sidebar .list {
   display: flex;
   flex-direction: column;

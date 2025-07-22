@@ -1,4 +1,4 @@
-Hak Cipta © 2025-selamanya [Matthew [archangel-12] Alexander](https://www.instagram.com/r3yanson/)
+Hak Cipta © 2025-selamanya [Matthew Alexander](https://www.instagram.com/r3yanson/)
 
 Dengan ini diberikan izin kepada siapa pun untuk __melihat konten repositori ini hanya untuk tujuan pendidikan atau informasi__.
 
@@ -12,4 +12,4 @@ Repositori ini disediakan semata-mata untuk transparansi, pembelajaran, dan insp
 
 Dengan mengakses repositori ini, Anda menyetujui persyaratan diatas.
 
-Untuk hak penggunaan atau pertanyaan, bisa menghubungi email [disini](https://mail.google.com/mail/?view=cm&fs=1&to=sebastianhedforst@gmail.com&su=SUBJECT&body=BODY)
+Untuk hak penggunaan atau pertanyaan, bisa menghubungi email [disini](https://mail.google.com/mail/?view=cm&fs=1&to=sebastianhedforst@gmail.com&su=&body=)

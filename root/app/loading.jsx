@@ -67,24 +67,9 @@ export default function Loading() {
       </div>
       <p className="text-white text-sm mb-2">Welcome to Velvet....</p>
       <p className="text-gray-400 text-xs text-center max-w-xs">
-        208919 199205 919 318162054 239208{" "}
-        <a
-          href="https://nextjs.org/"
-          className="text-gray-600"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          1452420
-        </a>{" "}
-        225{" "}
-        <a
-          href="https://youtu.be/CHP3aDTP5Qo"
-          className="text-gray-500"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          225183512
-        </a>
+        When we win, do not forget that these people want you broke, dead, your
+        kids raped and brainwashed, and they think it's funny{""}
+        {""} ~ Sam Hyde
         <br />
         Made with ❤️ by{" "}
         <a
@@ -93,7 +78,7 @@ export default function Loading() {
           rel="noopener noreferrer"
           href="https://www.instagram.com/r3yanson/"
         >
-          r3yanson
+          Matthew Alexander
         </a>
       </p>
     </div>

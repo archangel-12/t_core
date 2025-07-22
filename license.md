@@ -1,4 +1,4 @@
-Copyright © 2025-forever [Matthew [archangel-12] Alexander](https://www.instagram.com/r3yanson/)
+Copyright © 2025-forever [Matthew Alexander](https://www.instagram.com/r3yanson/)
 
 <p align="left">
   For the
@@ -6,7 +6,7 @@ Copyright © 2025-forever [Matthew [archangel-12] Alexander](https://www.instagr
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png?20200822164827"
     alt="id_flag"
   />
-  translation, please refer to <a href="/license-ID.md">this file</a>.
+  translation, please refer to <a href="/root/license-ID.md">this file</a>.
   <br />
 </p>
 
@@ -22,4 +22,4 @@ This repository is provided strictly for transparency, learning, and inspiration
 
 By accessing this repository, you agree to these terms.
 
-For usage rights or questions, contact my [email](https://mail.google.com/mail/?view=cm&fs=1&to=sebastianhedforst@gmail.com&su=SUBJECT&body=BODY)
+For usage rights or questions, contact my [email](https://mail.google.com/mail/?view=cm&fs=1&to=sebastianhedforst@gmail.com&su=&body=)
