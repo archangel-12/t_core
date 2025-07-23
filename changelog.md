@@ -13,3 +13,4 @@
 - July 17th [13:29 GMT+7] = Code copy is done, revisions are complete, and UI visuals are finalized. After yesterday's CORS tragedy, I'm putting the UI and backend in one folder to avoid those pesky ``No Access-Control-Allow-Origin`` header errors. Also, the AI embedding is also work and this time, using [Llama](https://console.groq.com/docs/model/llama-3.2-3b-preview) model by [Meta](https://ai.meta.com/)
 - July 21th [10:28 GMT+7] = Chat history storage in progress, user authentication, analytics and admin view (*maybe will be included*)
 - July 22th [15:40 GMT+7] = Slight change on the terms and condition and also privacy police
+- July 23th [12:21 GMT+7] = Officially granted permission to skip development for the thesis project. This means full focus can now be dedicated to the frontend and AI integration, streamlining progress and reducing scope pressure.

@@ -87,4 +87,5 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Penulisan halaman wiki Velvet**       | 10 Juni 2025 | Penulisan halaman wiki | ✅ Selesai |
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai Velvet | ❌ Ditunda |
+| **keinginan diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
 | **Penyempurnaan Akhir** | Juni 2025 | Polishing UI, automasi Clerk, dan integrasi Supabase sebelum deployment | ⏳ Menunggu |
