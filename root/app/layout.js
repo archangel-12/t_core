@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Velvet",
-  description: "it's a chatbot, but all answer is all bout history...",
+  title: "Terra Incognita",
+  description: "it's a chatbot, but all answer is all 'bout history...",
 };
 
 export default function RootLayout({ children }) {
@@ -32,10 +32,9 @@ export default function RootLayout({ children }) {
           <body
             className={`${geistSans.variable} ${geistMono.variable} antialiased`}
           >
-            <header className="flex items-center justify-between px-4 py-3">
-              <Link href="/" className="flex items-center gap-2 w-8 h-8">
-                <img src="/favicon.png" alt="Velvet_logo" />
-                <span className="text-base text-black font-sans">Velvet</span>
+            <header className="flex items-center px-4 py-3">
+              <Link href="/" className="flex items-center gap-2 w-40 h-10">
+                <img src="/ti.png" alt="Velvet_logo" />
               </Link>
             </header>
             <div className="absolute top-4 right-4 z-50">

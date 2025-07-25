@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="homepage">
       <div className="left">
-        <h1>Velvet</h1>
+        <h1>Terra Incognita</h1>
         <h2 className="text-[black]">Your Personal History Companion</h2>
         <h3 className="font-normal max-w-[70%] text-[black]">
           Explore the past, learn something new every day
@@ -30,7 +30,7 @@ export default function Home() {
         </Link>
       </div>
       <div className="terms">
-        <img src="./favicon.png" alt="lol" />
+        <img src="./ti.png" alt="lol" />
         <div className="links">
           <button
             onClick={() => setShowModal("terms")}

@@ -14,3 +14,4 @@
 - July 21th [10:28 GMT+7] = Chat history storage in progress, user authentication, analytics and admin view (*maybe will be included*)
 - July 22th [15:40 GMT+7] = Slight change on the terms and condition and also privacy police
 - July 23th [12:21 GMT+7] = Officially granted permission to skip development for the thesis project. This means full focus can now be dedicated to the frontend and AI integration, streamlining progress and reducing scope pressure.
+- July 25th [15:15 GMT+7] = Strict topic filtering implemented, such as major change in [`route.js`](/root/app/api/chat/route.js), now only answers questions related to history, archaeology, and human civilizations, any questions outside that scope receive a polite refusal, Language filtering ensures only Indonesian is accepted for interaction
