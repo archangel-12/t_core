@@ -3,7 +3,7 @@
 
 <img src="./app/favicon.ico" width="100px" align="left" />
 
-### `Velvet`
+### `terra incognita`
 [[lisensi bisa ditemukan disini](/license-ID.md)]
 
 <p align="left">
@@ -50,7 +50,7 @@
 > Ini adalah chatbot, tetapi berkaitan dengan sejarah! 🤗
 
 ### Hah, maksud?
-Velvet adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
+``ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
 
 ### Kenapa saya melakukannya?
 Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membuat segalanya lebih menarik. Penelitian juga menyenangkan, meskipun fokus saya mungkin sedikit berbeda dari lulusan humaniora yang biasanya menganalisis artefak atau situs arsip. Namun, proyek ini lebih dari sekadar penelitian. Sekali lagi, ini adalah cara saya menunjukkan bagaimana KB, jika digunakan dengan benar, dapat membuka berbagai penemuan yang kreatif dan bermakna. Mungkin belum sempurna, tetapi hei, itulah bagian dari perjalanannya!
@@ -84,7 +84,6 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Perbaikan Bug & Pemulihan** | Juni 2025 | Memperbaiki bug akibat copy-paste kode V0 | ✅ Selesai |
 | **Progres Saat Ini** | Juni 2025 | API-key dan sistem autentikasi berfungsi | 🔄 Dalam Proses |
 | **Hari Presentasi** | 4 Juni 2025 | Demonstrasi proyek & iterasi berlanjut | ✅ Selesai |
-| **Penulisan halaman wiki Velvet**       | 10 Juni 2025 | Penulisan halaman wiki | ✅ Selesai |
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai Velvet | ❌ Ditunda |
 | **keinginan diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai

@@ -3,7 +3,7 @@
 
 <img src="./root/app/favicon.ico" width="100px" align="left" />
 
-### `Velvet`
+### `terra incognita`
 [[License can be found here](/license)]
 
 <p align="left">
@@ -55,7 +55,7 @@
 > It's a chatbot, but related to history alike ! 🤗
 
 ### What is that supposed to mean?
-Velvet is a specialized chatbot designed to deliver precise, structured responses to inquiries about historical events, figures, and contexts. While I, as the author, acknowledge that it is __not yet perfect__, this project serves as a testament to the potential of artificial intelligence when leveraged responsibly. I believe that through thoughtful and ethical AI development, we can create innovative and meaningful solutions that inspire creativity and discovery
+``ti.`` is a specialized chatbot designed to deliver precise, structured responses to inquiries about historical events, figures, and contexts. While I, as the author, acknowledge that it is __not yet perfect__, this project serves as a testament to the potential of artificial intelligence when leveraged responsibly. I believe that through thoughtful and ethical AI development, we can create innovative and meaningful solutions that inspire creativity and discovery
 
 ### Why am I doing this?
 I’ve always liked the idea of a multidisciplinary approach to education. it keeps things interesting. Research is fun too, though my focus might be a bit different from what a humanities grad would typically do, like analyzing artifacts or archival sites. This project, though, is something bigger. Again, It’s my way of showing how AI, when used thoughtfully, can unlock creative and meaningful discoveries. Maybe it’s not perfect yet, but hey, that’s part of the journey
@@ -91,7 +91,6 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
 | **Error Fix & Recovery** | June 2025 (5 days ago) | Fixed bugs from V0 code copy-paste mistake | ✅ Completed |
 | **Current Progress** | June 2025 | API-key authentication & sign-in flow functional | 🔄 In Progress |
 | **Presentation Day** | June 4th 2025 | Project showcase and iteration continuation | ✅ Completed |
-| **Velvet Official Wiki**       | Completion | Making of the wiki | ❌ On Hold |
 | **Validation from someone with relevant expertise, like a computer science graduate**       | June 12th, 2025 | To validate and showcase the progress made so far | ✅ Completed |
 | **Observation**       | June 12th, 2025 | An observation, such as asking a junior from the campus about their experience using Velvet so far | ❌ On Hold |
 | **Wish granted**       | July 23th, 2025 | Officially granted permission to skip the backend development by the lecturer for Velvet. This means full focus can now be dedicated to the frontend and AI integratio, streamlining progress and reducing scope pressure | ✅ Completed |
