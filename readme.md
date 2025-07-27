@@ -92,6 +92,6 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
 | **Current Progress** | June 2025 | API-key authentication & sign-in flow functional | 🔄 In Progress |
 | **Presentation Day** | June 4th 2025 | Project showcase and iteration continuation | ✅ Completed |
 | **Validation from someone with relevant expertise, like a computer science graduate**       | June 12th, 2025 | To validate and showcase the progress made so far | ✅ Completed |
-| **Observation**       | June 12th, 2025 | An observation, such as asking a junior from the campus about their experience using Velvet so far | ❌ On Hold |
-| **Wish granted**       | July 23th, 2025 | Officially granted permission to skip the backend development by the lecturer for Velvet. This means full focus can now be dedicated to the frontend and AI integratio, streamlining progress and reducing scope pressure | ✅ Completed |
+| **Observation**       | June 12th, 2025 | An observation, such as asking a junior from the campus about their experience using `Ti.` so far | ❌ On Hold |
+| **Wish granted**       | July 23th, 2025 | Officially granted permission to skip the backend development by the lecturer for `Ti.` This means full focus can now be dedicated to the frontend and AI integratio, streamlining progress and reducing scope pressure | ✅ Completed |
 | **Final Touches** | June 2025 – Completion | UI polish, Clerk automation, ~~Supabase integration~~, and deploy it live | ⏳ Pending |

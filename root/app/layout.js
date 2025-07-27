@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
           >
             <header className="flex items-center px-4 py-3">
               <Link href="/" className="flex items-center gap-2 w-40 h-10">
-                <img src="/ti.png" alt="Velvet_logo" />
+                <img src="/ti.png" alt="Ti._logo" />
               </Link>
             </header>
             <div className="absolute top-4 right-4 z-50">

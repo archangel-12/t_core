@@ -30,7 +30,7 @@ export default function Home() {
         </Link>
       </div>
       <div className="terms">
-        <img src="./ti.png" alt="lol" />
+        <img src="./favicon.ico" alt="lol" />
         <div className="links">
           <button
             onClick={() => setShowModal("terms")}

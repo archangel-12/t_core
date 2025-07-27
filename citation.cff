@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Velvet
+title: Terra Incognita
 message: 'It''s a chatbot, but related to history alike !'
 type: software
 authors:
@@ -7,7 +7,7 @@ authors:
     family-names: Panggabean
     email: sebastianhedforst@gmail.com
     affiliation: State University of Surabaya
-repository-code: 'https://github.com/archangel-12/velvet'
+repository-code: 'https://github.com/archangel-12/t_core'
 repository-artifact: 'https://github.com/thenothing12/kern'
 abstract: >-
   It's a chatbot whose answers are coded and programmed to

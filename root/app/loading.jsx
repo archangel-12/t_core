@@ -65,7 +65,7 @@ export default function Loading() {
           transition={{ duration: 0.5 }}
         />
       </div>
-      <p className="text-white text-sm mb-2">Welcome to Velvet....</p>
+      <p className="text-white text-sm mb-2">Welcome to Terra Incognita....</p>
       <p className="text-gray-400 text-xs text-center max-w-xs">
         When we win, do not forget that these people want you broke, dead, your
         kids raped and brainwashed, and they think it's funny{""}

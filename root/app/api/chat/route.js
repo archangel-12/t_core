@@ -51,7 +51,7 @@ export async function POST(req) {
       return new Response(
         JSON.stringify({
           reply:
-            "Maaf, Velvet hanya dapat merespons pertanyaan dalam bahasa Indonesia saja ya kak.",
+            "Maaf, Ti. hanya dapat merespons pertanyaan dalam bahasa Indonesia saja ya kak.",
         }),
         { status: 200, headers: { "Content-Type": "application/json" } }
       );
@@ -83,7 +83,7 @@ export async function POST(req) {
       return new Response(
         JSON.stringify({
           reply:
-            "Maaf, Velvet hanya bisa menjawab pertanyaan yang berkaitan dengan sejarah, arkeologi, atau peradaban manusia ya :)",
+            "Maaf, Ti. hanya bisa menjawab pertanyaan yang berkaitan dengan sejarah, arkeologi, atau peradaban manusia ya :)",
         }),
         { status: 200, headers: { "Content-Type": "application/json" } }
       );

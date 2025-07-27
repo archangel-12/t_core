@@ -4,7 +4,9 @@ import Link from "next/link";
 const Sidebar = () => {
   return (
     <div className="Sidebar">
-      <span className="font-semibold text-[20px] mb-[40px] text-[#111]">Dashboard</span>
+      <span className="font-semibold text-[20px] mb-[40px] text-[#111]">
+        Dashboard
+      </span>
       <Link href="/dashboard" className="text-base text-[#111]">
         Buat Percakapan Baru
       </Link>
@@ -14,7 +16,7 @@ const Sidebar = () => {
         href={"https://github.com/archangel-12/t_core/blob/main/root/readme.md"}
         className="text-base text-[#111]"
       >
-        Apa itu Velvet?
+        Apa itu Ti.?
       </Link>
       <Link
         target="_blank"
@@ -36,8 +38,8 @@ const Sidebar = () => {
       <div className="sawer_menyawer">
         <img
           className="h-5 w-5 object-contain"
-          src="./favicon.png"
-          alt="velvet_logo"
+          src="./favicon.ico"
+          alt="ti._logo"
         />
         <div className="flex flex-col">
           <Link

@@ -10,12 +10,7 @@ const Chatbox = ({ messages }) => {
     <div className="Chatbox">
       <div className="flex flex-col gap-[24px] overflow-y-auto h-full">
         <div className="flex items-center gap-[12px]">
-          <img
-            src="/favicon.png"
-            alt="velvet_logo"
-            className="h-[48px] w-[48px] object-contain"
-          />
-          <h2 className="text-[28px] font-bold text-[#111] m-0">Velvet</h2>
+          <img src="/ti.png" alt="Ti._logo" className="w-30 object-contain" />
         </div>
 
         {hasMessages ? (
