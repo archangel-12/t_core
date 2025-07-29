@@ -16,3 +16,4 @@
 - July 23th [12:21 GMT+7] = Officially granted permission to skip development for the thesis project. This means full focus can now be dedicated to the frontend and AI integration, streamlining progress and reducing scope pressure.
 - July 25th [15:15 GMT+7] = Strict topic filtering implemented, such as major change in [`route.js`](/root/app/api/chat/route.js), now only answers questions related to history, archaeology, and human civilizations, any questions outside that scope receive a polite refusal, Language filtering ensures only Indonesian is accepted for interaction
 - July 27th [19:14 GMT+7] = slight name change from velvet to `terra incognita`
+- July 29th [20:40 GMT+7] = slight change at the root folder just to ease the work. _Ti. is very much done :)_

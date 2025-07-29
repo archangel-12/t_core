@@ -8,7 +8,7 @@ authors:
     email: sebastianhedforst@gmail.com
     affiliation: State University of Surabaya
 repository-code: 'https://github.com/archangel-12/t_core'
-repository-artifact: 'https://github.com/thenothing12/kern'
+repository-artifact: 'https://github.com/archangel-12/t_core'
 abstract: >-
   It's a chatbot whose answers are coded and programmed to
   prioritize the notion of history above all, and to make it
