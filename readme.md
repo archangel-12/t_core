@@ -75,7 +75,7 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
 
 6. API Keys & LLM Backend: Integrating [Llama](https://ai.meta.com/blog/meta-llama-3-1/) LLM as the primary language model, utilizing <a href="https://console.groq.com/home"><img src="https://img.shields.io/badge/Groq-%23F55036.svg" alt="Groq"></a> as the inference provider for optimized performance. 
 
-7. Backend Services: Implementing <a href="https://dashboard.clerk.com/apps"><img src="https://img.shields.io/badge/Clerk-%23000000.svg?logo=clerk&logoColor=purple" alt="Groq"></a> for authentication and account management, while <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-%2300E676.svg?logo=supabase&logoColor=white" alt="Supabase"></a> handles chat history storage and retrieval
+7. Backend Services: Implementing <a href="https://dashboard.clerk.com/apps"><img src="https://img.shields.io/badge/Clerk-%23000000.svg?logo=clerk&logoColor=purple" alt="Groq"></a> for authentication and account management, ~~while <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-%2300E676.svg?logo=supabase&logoColor=white" alt="Supabase"></a> handles chat history storage and retrieval~~
 
 8. [V0](https://v0.dev/) for seeking reference
 
