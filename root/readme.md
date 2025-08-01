@@ -13,7 +13,11 @@
 
 <div align="center">
   <a href="https://github.com/archangel-12/t_core">
-    <strong>Jelajahi dokumentasi »</strong>
+    <strong>Jelajahi dokumentasi</strong>
+  </a>
+  <span>||</span>
+  <a href="/changelog.md">
+    <strong>Perkembangan sejauh ini</strong>
   </a>
 </div>
 
@@ -50,7 +54,7 @@
 > Ini adalah chatbot, tetapi berkaitan dengan sejarah! 🤗
 
 ### Hah, maksud?
-``ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
+``Ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
 
 ### Kenapa saya melakukannya?
 Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membuat segalanya lebih menarik. Penelitian juga menyenangkan, meskipun fokus saya mungkin sedikit berbeda dari lulusan humaniora yang biasanya menganalisis artefak atau situs arsip. Namun, proyek ini lebih dari sekadar penelitian. Sekali lagi, ini adalah cara saya menunjukkan bagaimana KB, jika digunakan dengan benar, dapat membuka berbagai penemuan yang kreatif dan bermakna. Mungkin belum sempurna, tetapi hei, itulah bagian dari perjalanannya!
@@ -87,5 +91,5 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ❌ Ditunda |
 | **keinginan diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
-| **Penyempurnaan Akhir** | Juni 2025 | Polishing UI, automasi Clerk, ~~dan integrasi Supabase sebelum deployment~~ | ⏳ Menunggu |
+| **Penyempurnaan Akhir** | Juni 2025 | Polishing UI, automasi Clerk, ~~dan integrasi Supabase~~ sebelum deployment | 🔄 Dalam Proses |
 | **Wawancara dengan junior ke 2 kalinya**       | 30 Juli 2025 - Agustus 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | 🔄 Dalam Proses |
