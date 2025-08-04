@@ -19,3 +19,4 @@
 - July 29th [20:40 GMT+7] = slight change at the root folder just to ease the work. _``Ti.`` is very much done :)_
 - July 30th [10:59 GMT+7] = conducted usability test with the juniors, received positive feedback from both juniors and seniors
 - August 1th [16:09 GMT+7] = Slight minor change on the documentation. _``Ti.`` is very much done :)_
+- August 4th [15:32 GMT+7] = Another slight minor change on the documentation. Proud to say it again that __``Ti.`` is very much done :)__ and will goes to production at the final presentation

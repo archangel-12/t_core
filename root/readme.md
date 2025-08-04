@@ -1,13 +1,13 @@
 <!-- Desain Markdown ini terinspirasi dari repositori resmi Zed Browser. -->  
 <!-- Sumber: https://github.com/zed-industries/zed/blob/main/README.md -->
 
-<img src="./app/favicon.ico" width="100px" align="left" />
+<img src="./app/favicon.ico" width="100px" align="left"/>
 
 ### `terra incognita`
 [[lisensi bisa ditemukan disini](/license-ID.md)]
 
 <p align="left">
-  Untuk versi terjemahan dalam Bahasa asli, silakan lihat <a href="/readme.md">file ini</a>.
+  Untuk versi terjemahan dalam bahasa asli, silakan lihat <a href="/readme.md">file ini</a>.
   <br />
 </p>
 
@@ -41,17 +41,17 @@
         >Alat dan plugin apa yang digunakan dalam proyek ini?</a
       >
     </li>
-    <li><a href="#roadmap">🗺️ Roadmap</a></li>
+    <li><a href="#roadmap">🗺️ Peta</a></li>
   </ol>
 </details>
 
 <br/>
 
 > [!NOTE]  
-> Masih dalam pengembangan. Deployment segera hadir!
+> Masih dalam pengembangan. *Deployment* segera hadir :)
 
 ### Apa ini?
-> Ini adalah chatbot, tetapi berkaitan dengan sejarah! 🤗
+> Ini adalah *chatbot*, tetapi dikhususkan untuk Sejarah! 🤗
 
 ### Hah, maksud?
 ``Ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
@@ -80,16 +80,16 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | Fase | Timeline | Pencapaian | Status |
 |------|----------|------------|--------|
 | **Konsep & Perencanaan** | Mid-2023 – Nov 2023 | Ide awal dirancang | ✅ Selesai |
-| **Jeda Karena Operasi** | Nov 2023 – 2024 | Proyek tidak tersentuh | ❌ Ditunda |
+| **Jeda Karena Operasi dan KKN, serta magang mengajar** | Nov 2023 – 2024 | Proyek tidak tersentuh | ❌ Ditunda |
 | **Desain & Prototipe** | Nov 2024 – Jan 2025 | Pengembangan awal desain dan prototipe | ✅ Selesai |
 | **Demo Pertama** | Feb 2025 | Demonstrasi fungsionalitas berhasil | ✅ Selesai |
 | **Iterasi & Penyempurnaan** | Mar – Apr 2025 | Peningkatan UI/UX & penulisan draft skripsi | ✅ Selesai |
 | **Jeda Pengembangan** | Mei 2025 | Tidak ada progres proyek | ❌ Ditunda |
 | **Perbaikan Bug & Pemulihan** | Juni 2025 | Memperbaiki bug akibat copy-paste kode V0 | ✅ Selesai |
-| **Progres Saat Ini** | Juni 2025 | API-key dan sistem autentikasi berfungsi | 🔄 Dalam Proses |
+| **Progres Saat Ini** | Juni 2025 | Kunci API dan sistem autentikasi berfungsi | 🔄 Dalam Proses |
 | **Hari Presentasi** | 4 Juni 2025 | Demonstrasi proyek & iterasi berlanjut | ✅ Selesai |
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ❌ Ditunda |
-| **keinginan diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
-| **Penyempurnaan Akhir** | Juni 2025 | Polishing UI, automasi Clerk, ~~dan integrasi Supabase~~ sebelum deployment | 🔄 Dalam Proses |
+| **Izin diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
+| **Penyempurnaan Akhir** | Juni 2025 - Selesai | Perbagus antarmuka, automasi *Clerk*, ~~dan integrasi Supabase~~ sebelum *deployment* | 🔄 Dalam Proses |
 | **Wawancara dengan junior ke 2 kalinya**       | 30 Juli 2025 - Agustus 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | 🔄 Dalam Proses |

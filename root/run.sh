@@ -33,7 +33,7 @@ run_command "npm i -g bun" "download runtime..."
 
 run_command "bun update --latest" "everything must be new..."
 
-echo -e "${GREEN}welcome abroad, matthew...${NC}"
+echo -e "${GREEN}welcome abroad, matthew :)... happy adding new patches...${NC}"
 echo "もしもし?"
 bun run dev
 

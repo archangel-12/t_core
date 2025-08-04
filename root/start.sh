@@ -1,3 +1,3 @@
-echo -e "welcome abroad, matthew..."
+echo -e "welcome back :)"
 bun run dev
 echo -e "localhost terminated. goodbye :)"
