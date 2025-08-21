@@ -53,7 +53,7 @@
 <br/>
 
 > [!NOTE]  
-> Still a work in progress. Deployment coming soon :)
+> ~~Still a work in progress~~. Deployment coming soon :)
 
 ### So what is this?
 > It's a chatbot, but related to history alike ! 🤗
@@ -93,7 +93,7 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
 | **Iteration & Refinement** | Mar – Apr 2025 | UI/UX improvements & thesis draft writing | ✅ Completed |
 | **Development Paused Again** | May 2025 | No work done on the project | ❌ On Hold |
 | **Error Fix & Recovery** | June 2025 (5 days ago) | Fixed bugs from V0 code copy-paste mistake | ✅ Completed |
-| **Current Progress** | June 2025 | API-key authentication & sign-in flow functional | 🔄 In Progress |
+| **Current Progress** | June 2025 | API-key authentication & sign-in flow functional | ✅ Completed |
 | **Presentation Day** | June 4th 2025 | Project showcase and iteration continuation | ✅ Completed |
 | **Validation from someone with relevant expertise, like a CS grad**       | June 12th, 2025 | To validate and showcase the progress made so far | ✅ Completed |
 | **Observation**       | June 12th, 2025 | An observation, such as asking a junior from the campus about their experience using `Ti.` so far | ❌ On Hold |

@@ -48,13 +48,13 @@
 <br/>
 
 > [!NOTE]  
-> Masih dalam pengembangan. *Deployment* segera hadir :)
+> ~~Masih dalam pengembangan~~. Segera rilis ke publik pada akhirnya :)
 
 ### Apa ini?
 > Ini adalah *chatbot*, tetapi dikhususkan untuk Sejarah! 🤗
 
 ### Hah, maksud?
-``Ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai penulis, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
+``Ti.`` adalah chatbot khusus yang dirancang untuk memberikan respons yang presisi dan terstruktur terkait peristiwa sejarah, tokoh, dan konteksnya. Sebagai pengembang, saya menyadari bahwa __proyek ini belum sempurna__, tetapi saya yakin ini adalah bukti bahwa kecerdasan buatan memiliki potensi besar jika digunakan dengan bijak. Selama kita memakainya dengan cara etis, kita bisa menciptakan solusi inovatif dan bermakna yang menginspirasi kreativitas serta penemuan.
 
 ### Kenapa saya melakukannya?
 Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membuat segalanya lebih menarik. Penelitian juga menyenangkan, meskipun fokus saya mungkin sedikit berbeda dari lulusan humaniora yang biasanya menganalisis artefak atau situs arsip. Namun, proyek ini lebih dari sekadar penelitian. Sekali lagi, ini adalah cara saya menunjukkan bagaimana KB, jika digunakan dengan benar, dapat membuka berbagai penemuan yang kreatif dan bermakna. Mungkin belum sempurna, tetapi hei, itulah bagian dari perjalanannya!
@@ -86,7 +86,7 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Iterasi & Penyempurnaan** | Mar – Apr 2025 | Peningkatan UI/UX & penulisan draft skripsi | ✅ Selesai |
 | **Jeda Pengembangan** | Mei 2025 | Tidak ada progres proyek | ❌ Ditunda |
 | **Perbaikan Bug & Pemulihan** | Juni 2025 | Memperbaiki bug akibat copy-paste kode V0 | ✅ Selesai |
-| **Progres Saat Ini** | Juni 2025 | Kunci API dan sistem autentikasi berfungsi | 🔄 Dalam Proses |
+| **Progres Saat Ini** | Juni 2025 | Kunci API dan sistem autentikasi berfungsi | ✅ Selesai |
 | **Hari Presentasi** | 4 Juni 2025 | Demonstrasi proyek & iterasi berlanjut | ✅ Selesai |
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ❌ Ditunda |
