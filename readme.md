@@ -53,7 +53,7 @@
 <br/>
 
 > [!NOTE]  
-> ~~Still a work in progress~~. Deployment coming soon :)
+> Deployment coming soon :)
 
 ### So what is this?
 > It's a chatbot, but related to history alike ! 🤗

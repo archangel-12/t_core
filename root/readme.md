@@ -7,7 +7,7 @@
 [[lisensi bisa ditemukan disini](/license-ID.md)]
 
 <p align="left">
-  Untuk versi terjemahan dalam bahasa asli, silakan lihat <a href="/readme.md">file ini</a>.
+  Untuk dokumentasi dalam bahasa asli, silakan lihat <a href="/readme.md">file ini</a>.
   <br />
 </p>
 
@@ -48,7 +48,7 @@
 <br/>
 
 > [!NOTE]  
-> ~~Masih dalam pengembangan~~. Segera rilis ke publik pada akhirnya :)
+> Segera rilis ke publik pada akhirnya :)
 
 ### Apa ini?
 > Ini adalah *chatbot*, tetapi dikhususkan untuk Sejarah! 🤗
@@ -91,5 +91,5 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Validasi dari teknisi**       | 12 Juni 2025 | Presentasi berupa progress saat ini | ✅ Selesai |
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ❌ Ditunda |
 | **Izin diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
-| **Penyempurnaan Akhir** | Juni 2025 - Selesai | Perbagus antarmuka, automasi *Clerk*, ~~dan integrasi Supabase~~ sebelum *deployment* | 🔄 Dalam Proses |
+| **Penyempurnaan Akhir** | Juni 2025 - Selesai | Perbagus antarmuka, automasi *Clerk*, ~~dan integrasi Supabase~~ sebelum *rilis ke publik* | 🔄 Dalam Proses |
 | **Wawancara dengan junior ke 2 kalinya**       | 30 Juli 2025 - Agustus 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | 🔄 Dalam Proses |
