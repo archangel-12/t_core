@@ -22,3 +22,4 @@
 - August 4th [15:32 GMT+7] = Another slight minor change on the documentation. Proud to say it again that __``Ti.`` is very much done :)__ and will goes to production at the final presentation
 - August 21th [19:31 GMT+7] = major change on the documentation and renaming the core file from `page.js` to [`page.jsx`](/root/app/page.jsx). Proud to say it again that __``Ti.`` is very much done :)__ and will goes to production at the final presentation OR ahead of its intended plan :)
 - August 25th [19:31 GMT+7] = yet another major change on the documentation. Proud to say it again that __``Ti.`` is very much done :)__ and will goes to production at the final presentation OR ahead of its intended plan :)
+- August 26th [11:03 GMT+7] = _IT'S LIVE!_
