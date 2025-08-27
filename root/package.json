@@ -1,8 +1,11 @@
 {
-  "name": "ti_core",
+  "name": "terra_incognita",
   "description": "It's a chatbot, but related to history alike !",
   "author": {
-    "name": "matthew alexander"
+    "name": "matthew alexander",
+    "email": "thenothing_12@protonmail.com",
+    "instagram": "@r3yanson",
+    "twitter": "xyz_archie"
   },
   "categories": [
     "AI",
@@ -18,13 +21,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/groq": "^2.0.14",
-    "@clerk/nextjs": "^6.31.4",
+    "@ai-sdk/groq": "^2.0.16",
+    "@clerk/nextjs": "^6.31.5",
     "@supabase/supabase-js": "^2.56.0",
     "@tailwindcss/typography": "^0.5.16",
-    "ai": "^5.0.22",
+    "ai": "^5.0.25",
     "motion": "^12.23.12",
-    "next": "15.5.0",
+    "next": "15.5.2",
     "react": "19.1.1",
     "react-dom": "19.1.1",
     "react-markdown": "^10.1.0",

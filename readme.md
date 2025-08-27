@@ -95,5 +95,5 @@ I’ve always liked the idea of a multidisciplinary approach to education. it ke
 | **Validation from someone with relevant expertise, like a CS grad**       | June 12th, 2025 | To validate and showcase the progress made so far | ✅ Completed |
 | **Observation**       | June 12th, 2025 | An observation, such as asking a junior from the campus about their experience using `Ti.` so far | ❌ On Hold |
 | **Wish granted**       | July 23th, 2025 | Officially granted permission to skip the backend development by the lecturer for `Ti.` This means full focus can now be dedicated to the frontend and AI integration, streamlining progress and reducing scope pressure | ✅ Completed |
-| **Final Touches** | June 2025 – Completion | UI polish, Clerk automation, ~~Supabase integration~~, and deploy it live | ✅ Completed |
+| **Final Touches** | June 2025 – August 26th | UI polish, Clerk automation, ~~Supabase integration~~, and deploy it live | ✅ Completed |
 | **Observation for the 2nd time**       | July 30th, 2025 - Completion | An observation, such as asking a junior from the campus about their experience using `Ti.` so far | 🔄 In Progress |

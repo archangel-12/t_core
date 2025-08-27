@@ -1,0 +1,44 @@
+name: Terra Incognita core new path
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update-core-dependencies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: repository in check
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: setup runtime
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: clean workspace
+        run: |
+          git clean -fdx
+          git reset --hard HEAD
+
+      - name: update dependencies in core
+        working-directory: ./root
+        run: |
+          export NODE_OPTIONS=--max-old-space-size=4096
+          bun update --latest
+          bun install --silent --no-save
+
+      - name: commit and push changes
+        working-directory: ./root
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add package.json bun.lock
+          git commit -m "new patch updated" || echo "No changes to commit"
+          git pull --rebase origin HEAD || exit 1
+          git push origin HEAD
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
