@@ -89,4 +89,5 @@ Saya selalu menyukai konsep pendekatan multidisiplin dalam pendidikan, itu membu
 | **Wawancara dengan junior**       | 18 Juni 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ❌ Ditunda |
 | **Izin diberikan** | 23 Juli 2025 | Izin resmi diberikan untuk melewatkan pengembangan *backend* oleh dosen. Ini berarti fokus penuh sekarang dapat didedikasikan untuk antarmuka dan integrasi KB, merampingkan kemajuan dan mengurangi tekanan lingkup | ✅ selesai
 | **Penyempurnaan Akhir** | Juni 2025 - 26 Agustus | Perbagus antarmuka, automasi *Clerk*, ~~dan integrasi Supabase~~ sebelum *rilis ke publik* | ✅ selesai |
-| **Wawancara dengan junior ke 2 kalinya**       | 30 Juli 2025 - Agustus 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | 🔄 Dalam Proses |
+| **Wawancara dengan junior ke 2 kalinya**       | 30 Juli 2025 - Agustus 2025 | Observasi berupa pengalaman mahasiswa ketika pertama kali memakai `Ti.` | ✅ selesai |
+| **Data akhir sebelum sidang**       | November - Completion | Memasukkan data akhir sebelum sidang akhir  | 🔄 Dalam proses |
