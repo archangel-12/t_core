@@ -1,6 +1,4 @@
-import React from "react";
-
-const MessageInput = ({ input, setInput, handleSubmit }) => {
+export default function MessageInput({ input, setInput, handleSubmit }) {
   return (
     <div className="mt-auto mb-6 px-4">
       <form
@@ -23,6 +21,4 @@ const MessageInput = ({ input, setInput, handleSubmit }) => {
       </form>
     </div>
   );
-};
-
-export default MessageInput;
+}

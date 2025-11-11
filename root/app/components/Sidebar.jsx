@@ -1,7 +1,7 @@
 import "./Sidebar.css";
 import Link from "next/link";
 
-const Sidebar = () => {
+export default function Sidebar() {
   return (
     <div className="Sidebar">
       <span className="font-semibold text-[20px] mb-[40px] text-[#111]">
@@ -54,6 +54,4 @@ const Sidebar = () => {
       </div>
     </div>
   );
-};
-
-export default Sidebar;
+}

@@ -1,12 +1,15 @@
 import "./ChatBubble.css";
 
-const ChatBubble = ({ messages = [] }) => {
+export default function ChatBubble({ messages = [] }) {
   return (
     <div className="chatpage">
       <div className="wrapper">
         <div className="chat">
           {messages.map((msg, i) => (
-            <div key={i} className={`message ${msg.role === 'user' ? 'user' : ''}`}>
+            <div
+              key={i}
+              className={`message ${msg.role === "user" ? "user" : ""}`}
+            >
               {msg.text}
             </div>
           ))}
@@ -14,6 +17,4 @@ const ChatBubble = ({ messages = [] }) => {
       </div>
     </div>
   );
-};
-
-export default ChatBubble;
+}

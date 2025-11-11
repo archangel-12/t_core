@@ -1,9 +1,8 @@
-import React from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import "./Chatbox.css";
 
-const Chatbox = ({ messages }) => {
+export default function Chatbox({ messages }) {
   const hasMessages = messages && messages.length > 0;
 
   return (
@@ -57,6 +56,4 @@ const Chatbox = ({ messages }) => {
       </div>
     </div>
   );
-};
-
-export default Chatbox;
+}

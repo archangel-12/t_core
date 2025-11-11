@@ -1,5 +1,4 @@
 "use client";
-
 import React, { useState, useEffect } from "react";
 import { useAuth } from "@clerk/nextjs";
 import Sidebar from "../components/Sidebar";
@@ -8,10 +7,8 @@ import MessageInput from "../components/MessageInput";
 import { useRouter } from "next/navigation";
 
 export default function DashboardPage() {
-
   const { isSignedIn } = useAuth();
   const router = useRouter();
-
   const [messages, setMessages] = useState([
     {
       role: "assistant",
