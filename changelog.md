@@ -25,3 +25,4 @@
 - August 26th [11:03 GMT+7] = _IT'S LIVE!_
 - August 27th [12:53 GMT+7] = adding automation script so that it'll add new patches by itself
 - November 11th [20:00 GMT+7] = refactor code completed
+- December 19th [14:12 GMT+7] = major upgrade since the [`react2shell`](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/) chaos. Ti should be working properly as it is
