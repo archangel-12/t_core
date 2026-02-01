@@ -21,15 +21,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/groq": "^3.0.2",
-    "@clerk/nextjs": "^6.36.5",
-    "@supabase/supabase-js": "^2.89.0",
+    "@ai-sdk/groq": "^3.0.20",
+    "@clerk/nextjs": "^6.37.1",
+    "@supabase/supabase-js": "^2.93.3",
     "@tailwindcss/typography": "^0.5.19",
-    "ai": "^6.0.5",
-    "motion": "^12.23.26",
-    "next": "16.1.1",
-    "react": "19.2.3",
-    "react-dom": "19.2.3",
+    "ai": "^6.0.66",
+    "motion": "^12.29.2",
+    "next": "16.1.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1"
   },
