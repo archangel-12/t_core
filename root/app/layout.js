@@ -1,9 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import {
   ClerkProvider,
-  SignInButton,
-  SignUpButton,
-  SignedIn,
+  SignIn,
   UserButton,
 } from "@clerk/nextjs";
 import "./globals.css";
@@ -38,9 +36,9 @@ export default function RootLayout({ children }) {
               </Link>
             </header>
             <div className="absolute top-4 right-4 z-50">
-              <SignedIn>
+              <SignIn>
                 <UserButton />
-              </SignedIn>
+              </SignIn>
             </div>
             {children}
           </body>
